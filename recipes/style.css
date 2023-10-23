@@ -1,0 +1,24 @@
+/*this is styling for the recipe pages*/
+*{
+    background-color: aqua;
+    margin: 10px;
+}
+img{
+    border: 5px red solid;
+}
+.head {
+    font-size: 70px;
+    font-style: italic;
+}
+div p.des{
+    font-size: 30px;
+    word-wrap: normal;
+    width: 1000px;
+}
+ul,
+div ol{
+    font-size: 30px;
+}
+div ol{
+    width: 1000px;
+}

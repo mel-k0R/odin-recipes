@@ -1,0 +1,51 @@
+/*{
+    background-color: aqua;
+}*/
+body{
+    margin: 0 auto;
+}
+.recipes {
+    background-color: aqua;    
+    width: auto;
+    height: 700px;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+    border: 5px rgb(112, 43, 202) solid;
+}
+.pohe,
+.upma,
+.shabukichdi {
+    width: 33.33%;
+    text-align:center;
+    
+}
+.pohe,
+.upma {
+    float: left;
+ 
+}
+.shabukichdi {
+    float: right;
+}
+
+.recipes h1{
+    color: darkblue;
+    font-style: italic;
+    font-size: 60px;
+
+}
+.pohe a,
+.upma a,
+.shabukichdi a {
+    color: darkslateblue;
+    text-decoration: none;
+    font-size: 40px;
+    display: block;
+
+}
+.pohe img,
+.upma img,
+.shabukichdi img{
+    border: 5px red solid;
+}
